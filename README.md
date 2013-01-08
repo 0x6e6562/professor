@@ -4,7 +4,7 @@ Professor is a Go library for the Cassandra CQL3 binary protocol.
 
 # Limitations
 
-Currently this is a synchronous implementation of CQL2 - i.e. it mimics the Thrift RPC semantics. Hopefully this limitation can be relaxed in due course.
+Currently this is a synchronous implementation of the protocol - i.e. it mimics the Thrift RPC semantics. Hopefully this limitation can be relaxed in due course.
 
 # Running 
 
